@@ -4,7 +4,7 @@ ECE_281
 Alex Leaf
 
 truth Table:
-![alt text][Truthtable]
+![alt text](http://i39.tinypic.com/20a8jyr.png)
 
 
 Wave Form:
