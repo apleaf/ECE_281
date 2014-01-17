@@ -42,10 +42,11 @@ signal B_NOT, D, E : STD_LOGIC;
 
 begin
 
-B_NOT <= 
+B_NOT <= B;
 D <= A and B_NOT;
-E <= 
-F <= 
+E <= B and C;
+F <= D or E;
 
+--comment here
 end Behavioral;
 
